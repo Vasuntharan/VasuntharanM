@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(255, 232, 236);
+}
+
+h1{
+    color: rgb(8, 253, 212);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: navy;
+}
+h2{
+    color: rgb(8, 250, 218);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: navy;
+}
+h3{
+    color: rgb(9, 250, 230);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: navy;
+}
+img {
+    height: 200px;
+    width: 200px;
+    border: black;
+    box-sizing: border-box;
+    margin:25px;
+    border-radius: 50px;
+}
